@@ -1,0 +1,24 @@
+{
+  "name": "veronesecafe_portfolio_project",
+  "version": "1.0.0",
+  "description": "Veronese Cafe Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadalatab/VeroneseCafe.git"
+  },
+  "author": "Ahmad Alatab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadalatab/VeroneseCafe/issues"
+  },
+  "homepage": "https://github.com/ahmadalatab/VeroneseCafe#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
