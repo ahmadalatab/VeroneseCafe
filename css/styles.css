@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: #800000;
+    height: 250px;
+}
+
+.nav-link {
+    color: white;
+    margin: 40px;
+    font-family: 'Bebas Neue', cursive;
+}
