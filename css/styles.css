@@ -7,4 +7,9 @@
     color: white;
     margin: 40px;
     font-family: 'Bebas Neue', cursive;
+    font-size: larger;
 }
+a, a:hover {
+    color: rgb(241, 65, 65);
+    text-decoration: none;
+  }
