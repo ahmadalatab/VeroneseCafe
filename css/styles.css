@@ -1,15 +1,38 @@
-.jumbotron {
-    background-color: #800000;
-    height: 250px;
+.site-header {
+    font-family: 'Fredoka One', cursive;
+    background-color: #B73225;
+    color: white;
+    margin-right: -20px ;
+    margin-left: -20px;
+    height: 50px;
+}
+.home-body {
+    background-color: #FFA07A;
+}
+.image-body {
+    background-image: url("../images/vc_tea.jpg");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.nav-link {
-    color: white;
-    margin: 40px;
-    font-family: 'Bebas Neue', cursive;
-    font-size: larger;
-}
-a, a:hover {
-    color: rgb(241, 65, 65);
+a:link {
     text-decoration: none;
+    color: inherit;
+}
+a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+a:active {
+    text-decoration: none;
+    color: inherit;
+}
+.carousel-inner img {
+    margin: auto;
   }
