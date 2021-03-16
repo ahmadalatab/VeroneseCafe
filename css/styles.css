@@ -1,10 +1,14 @@
 .site-header {
     font-family: 'Fredoka One', cursive;
-    background-color: #B73225;
+    background-color: #B22222;
     color: white;
     margin-right: -20px ;
     margin-left: -20px;
     height: 50px;
+}
+.site-header h3 {
+    margin-top: 5px; 
+    margin-bottom: 0px;
 }
 .home-body {
     background-color: #FFA07A;
@@ -16,7 +20,6 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 a:link {
     text-decoration: none;
     color: inherit;
@@ -35,4 +38,32 @@ a:active {
 }
 .carousel-inner img {
     margin: auto;
-  }
+}
+.nav-link {
+    font-size: 20px !important;
+}
+nav
+{
+overflow: auto;
+}
+.backgroundimage {
+    background-image: url("../images/cofee_image_2.jpg");
+    width: 100vw;
+    height: 100vh; 
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.site-footer {
+    font-family: 'Fredoka One', cursive;
+    background-color: #B22222;
+    color: white;
+    margin-right: -20px ;
+    margin-left: -20px;
+    height: 100px;
+    font-size: large;
+    text-align: center;
+}
+.site-footer p {
+    margin-top: 5px;
+}
