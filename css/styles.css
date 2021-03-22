@@ -42,10 +42,7 @@ a:active {
 .nav-link {
     font-size: 20px !important;
 }
-nav
-{
-overflow: auto;
-}
+
 .backgroundimage {
     background-image: url("../images/cofee_image_2.jpg");
     width: 100vw;
@@ -66,4 +63,18 @@ overflow: auto;
 }
 .site-footer p {
     margin-top: 5px;
+}
+
+.nav-pills{
+    background-color: wheat;
+    font-family: 'Fredoka One', cursive;
+}
+
+.breakfast-item{
+    margin-top: 15px;
+    text-align: left;
+}
+
+.menu-card {
+    margin-bottom: 10px;
 }
